@@ -1,6 +1,6 @@
 name = "FortranReader"
 uuid = "d671ddab-160b-4450-92af-d62c1f8bf7b6"
-authors = ["Andy Nowacki <a.nowacki@leeds.ac.uk> and contributors"]
+authors = ["Andy Nowacki <a.nowacki@leeds.ac.uk>"]
 version = "0.1.0"
 
 [compat]
